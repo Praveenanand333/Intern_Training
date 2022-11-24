@@ -2,7 +2,7 @@
 using namespace std;
 int main(){
     int a,b,c;
-    cout<<"Enter the lengths of the triangle:";
+    cout<<"Enter the lengths of the Triangle:";
     cin>>a>>b>>c;
     if(a==b && b==c){
         cout<<"Equilateral triangle";
